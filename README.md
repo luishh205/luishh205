@@ -6,6 +6,8 @@
 
 📚 Minha jornada de aprendizado inclui uma ampla gama de cursos, desde Introdução ao Git e GitHub até Desenvolvimento Front-end com Angular e Exploração de Padrões de Projetos com Java. Estou empenhado em crescer continuamente e contribuir para projetos empolgantes na área de desenvolvimento de software.
 
-🌐 LinkedIn | 🌐 Site Pessoal do Tio | 📞 +55 37 99863-4677
+🌐 LinkedIn | https://www.linkedin.com/in/luis-henrique-ramos-soares-994956216/
+🌐 Site Pessoal do Tio | https://ranchodoivan.com/
+📞 +55 37 99863-4677
 
 Vamos conectar e explorar novas possibilidades juntos!
