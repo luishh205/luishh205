@@ -1,10 +1,28 @@
-👋 Olá! Eu sou um profissional em transição de carreira, recentemente formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual/UNIFRAN. Minha jornada começou como eletricista, mas minha paixão por tecnologia me impulsionou a buscar novos desafios na área de TI.
+Resumo Profissional:
 
-💡 Tenho uma curiosidade insaciável e adoro aprender. Acredito no poder do trabalho em equipe e na colaboração para alcançar resultados excepcionais. Minha capacidade de comunicação, tanto oral quanto escrita, combinada com meu raciocínio lógico, me permite enfrentar desafios complexos com confiança.
+Iniciei minha jornada na área de tecnologia em 2021, dedicandome aos estudos para adquirir habilidades valiosas. Em 2023,
+dei um passo significativo ao ingressar no mercado de trabalho,
+consolidando minha transição para a prática profissional.
+Experiência Profissional (desde 2023):
+Proficiente em tecnologias essenciais como jQuery, .NET
+Framework, ASP.NET MVC, ASP.NET, C#, Bootstrap, CSS, HTML,
+e JavaScript, aplicando-as em projetos relevantes.
+Incorporação ativa na equipe da Modallport Sistemas.
+Desenvolvimento contínuo de competências em [Java, Angular,
+Spring Boot, TypeScript, MySQL,React.js,Node.js,React Native]
+através de cursos especializados.
+Perspectiva Futura:
+Estou animado para continuar crescendo profissionalmente,
+explorando novos desafios e ampliando meu conjunto de
+habilidades.
 
-🚀 Meu perfil é marcado pela organização, motivação intrínseca e um compromisso inabalável com a aplicação prática do conhecimento adquirido. Além do meu interesse em tecnologia, também sou responsável por um site que atende os clientes do meu tio.
+Metas de Aprendizado:
 
-📚 Minha jornada de aprendizado inclui uma ampla gama de cursos, desde Introdução ao Git e GitHub até Desenvolvimento Front-end com Angular e Exploração de Padrões de Projetos com Java. Estou empenhado em crescer continuamente e contribuir para projetos empolgantes na área de desenvolvimento de software.
+Tenho o firme compromisso de aprimorar minha expertise em
+Desenvolvimento full stack , buscando certificações e participando
+ativamente de comunidades técnicas. Almejo não apenas adquirir
+conhecimento, mas também aplicá-lo em soluções práticas e
+inovadoras.
 
 🌐 LinkedIn | https://www.linkedin.com/in/luis-henrique-ramos-soares-994956216/
 🌐 Site Criado para atender clientes do meu Tio | https://ranchodoivan.com/
