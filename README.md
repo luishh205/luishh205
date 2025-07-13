@@ -7,7 +7,6 @@ Experiência Profissional (desde 2023):
 Proficiente em tecnologias essenciais como jQuery, .NET
 Framework, ASP.NET MVC, ASP.NET, C#, Bootstrap, CSS, HTML,
 e JavaScript, aplicando-as em projetos relevantes.
-Incorporação ativa na equipe da Modallport Sistemas.
 Desenvolvimento contínuo de competências em [Java, Angular,
 Spring Boot, TypeScript, MySQL,React.js,Node.js,React Native]
 através de cursos especializados.
